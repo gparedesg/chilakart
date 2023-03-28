@@ -1,7 +1,7 @@
 const path = require('path')
 
 export default {
-  base: 'chilakart',
+  base: '/chilakart',
   root: path.resolve(__dirname, 'src'),
   resolve: {
     alias: {
