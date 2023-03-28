@@ -1,7 +1,6 @@
 const path = require('path')
 
 export default {
-  base: '/chilakart',
   root: path.resolve(__dirname, 'src'),
   build: {
     outDir: '../dist',
